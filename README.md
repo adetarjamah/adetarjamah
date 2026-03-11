@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=ayu-    mirage&hide_border=true&icon_color=039BE5&title_color=039BE5"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=ayu-    mirage&hide_border=true&icon_color=61dafb&title_color=61dafb"/>
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&hide_border=true&ring=039BE5&fire=FF2D20&currStreakLabel=039BE5"/>
