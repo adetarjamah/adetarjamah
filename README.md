@@ -22,7 +22,7 @@ I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https:
   <img alt="flutter" src="https://img.shields.io/badge/Flutter-039BE5?logo=flutter&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
   <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
+  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-237F52FF?logo=kotlin&logoColor=white" />
   <img alt="ios" src="https://img.shields.io/badge/iOS-039BE5?logo=ios&logoColor=white" />
   <img alt="swift" src="https://img.shields.io/badge/Swift-ED8B00?logo=swift&logoColor=white" />
   
@@ -40,12 +40,13 @@ I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https:
 
 #### Things i tools with
 <p>
+  <img alt="androidstudio" src="https://img.shields.io/badge/Android Studio-4EA94B?logo=androidstudio&logoColor=white" />
+  <img alt="xcode" src="https://img.shields.io/badge/Xcode-039BE5?logo=xcode&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/Figma-237F52FF?logo=figma&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="gcp" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
-  <img alt="xcode" src="https://img.shields.io/badge/Xcode-039BE5?logo=xcode&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/Figma-237F52FF?logo=figma&logoColor=white" />
 </p>
 
 <!--
