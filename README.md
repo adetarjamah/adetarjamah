@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
+
 <p align="center">
   <a href="https://github.com/adetarjamah/">
     <img alt="Ade Tarjamah's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
