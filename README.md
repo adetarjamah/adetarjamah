@@ -10,10 +10,10 @@
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&layout=compact&theme=ayu-mirage&hide_border=true&title_color=87CEEB"/>
   </a> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adetarjamah&theme=react-dark&bg_color=000000&color=87CEEB&line=87CEEB&point=FFFFFF&hide_border=true"/>
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=adetarjamah&theme=react-dark&bg_color=000000&color=87CEEB&line=87CEEB&point=FFFFFF&hide_border=true"/> -->
 </div>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <p align="center">
   <a href="https://github.com/adetarjamah/">
