@@ -36,7 +36,10 @@ I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https:
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
   <img alt="supabase" src="https://img.shields.io/badge/Supabase-%234ea94b.svg?logo=supabase&logoColor=white" />
   <img alt="sqlserver" src="https://img.shields.io/badge/SQLServer-00000F?logo=mssqlserver&logoColor=white" />
+</p>
 
+#### Things i tools with
+<p>
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?logo=firebase&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
@@ -44,6 +47,7 @@ I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https:
   <img alt="xcode" src="https://img.shields.io/badge/Xcode-039BE5?logo=xcode&logoColor=white" />
   <img alt="figma" src="https://img.shields.io/badge/Figma-237F52FF?logo=figma&logoColor=white" />
 </p>
+
 <!--
 **adetarjamah/adetarjamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
