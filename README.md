@@ -42,7 +42,7 @@ I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https:
   <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white" />
   <img alt="gcp" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" />
   <img alt="xcode" src="https://img.shields.io/badge/Xcode-039BE5?logo=xcode&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/Figma%237F52FF.svg?logo=figma&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/Figma-237F52FF?logo=figma&logoColor=white" />
 </p>
 <!--
 **adetarjamah/adetarjamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
