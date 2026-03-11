@@ -10,6 +10,7 @@
     </a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&layout=compact&theme=ayu-mirage"/>
   </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adetarjamah&theme=react-dark&bg_color=000000&color=87CEEB&line=87CEEB&point=FFFFFF&hide_border=true"/>
 </p>
 
 <p align="center">
