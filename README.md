@@ -7,9 +7,9 @@
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&hide_border=true&ring=039BE5&fire=FF2D20&currStreakLabel=039BE5"/>
   </a>
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&layout=compact&theme=ayu-mirage&hide_border=true&title_color=87CEEB"/>
-  </a> -->
+  </a>
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=adetarjamah&theme=react-dark&bg_color=000000&color=87CEEB&line=87CEEB&point=FFFFFF&hide_border=true"/> -->
 </div>
 
