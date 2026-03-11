@@ -5,7 +5,7 @@
     <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=ayu-mirage&hide_border=true&icon_color=87CEEB&title_color=87CEEB"/>
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="180em" width="435em" src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&hide_border=true&ring=87CEEB&fire=FF2D20&currStreakLabel=87CEEB"/>
+    <img height="180em" width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&hide_border=true&ring=87CEEB&fire=FF2D20&currStreakLabel=87CEEB"/>
   </a>
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&layout=compact&theme=ayu-mirage&hide_border=true&title_color=87CEEB"/>
