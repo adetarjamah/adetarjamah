@@ -24,7 +24,7 @@ I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https:
   <img alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
   <img alt="ios" src="https://img.shields.io/badge/iOS-039BE5?logo=ios&logoColor=white" />
-  <img alt="swift" src="https://img.shields.io/badge/Swift%ED8B00.svg?logo=swift&logoColor=white" />
+  <img alt="swift" src="https://img.shields.io/badge/Swift-ED8B00?logo=swift&logoColor=white" />
   
   <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img alt="react" src="https://img.shields.io/badge/React.js-35495E?logo=react.js&logoColor=4FC08D" />
