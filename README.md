@@ -1,17 +1,24 @@
 ## Hi there 👋
 
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=390 height=180em src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=ayu-mirage&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=390 height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
-    </a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&layout=compact&theme=ayu-mirage"/>
-  </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adetarjamah&theme=react-dark&bg_color=000000&color=87CEEB&line=87CEEB&point=FFFFFF&hide_border=true"/>
-</p>
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=ayu-mirage&hide_border=true&icon_color=87CEEB&title_color=87CEEB"/>
+</a>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&hide_border=true&ring=87CEEB&fire=87CEEB&currStreakLabel=87CEEB"/>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&layout=compact&theme=ayu-mirage&hide_border=true&title_color=87CEEB"/>
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adetarjamah&theme=react-dark&bg_color=000000&color=87CEEB&line=87CEEB&point=FFFFFF&hide_border=true"/>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/adetarjamah/">
