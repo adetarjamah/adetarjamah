@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia (ID), i take great care in the experience, design, and code quality of the things I build. Currently i learned a lot of Flutter Multi-Platform for Mobile Development 😉.
+
+With a strong foundation in Architecture, combining structural logic with design creativity to create intuitive and user-centric digital solutions. My background allows for a multidisciplinary approach that results in structured, scalable and aesthetic products. I believe that technology is not just about functionality, but also about emotion and experience. From building the foundation of an application to optimizing user interactions, I enjoy the challenge of creating solutions that not only work, but also impress. With a high curiosity and drive to continuously experiment, I am not afraid to think outside the box because sometimes, the best solutions come from the most unexpected perspectives. And I believe indentity of human are learners as my life motto.
+
 <!--
 **adetarjamah/adetarjamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
