@@ -8,6 +8,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width=390 height=180em src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=ayu-mirage&border_color=61dafb&hide_border=true" />
     </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&layout=compact&theme=ayu-mirage"/>
   </div>
 </p>
 
