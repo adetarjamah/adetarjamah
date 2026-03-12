@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=gruvbox"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=adetarjamah&theme=gruvbox&show_icons=true"/>
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img height="180em" width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=adetarjamah&theme=gruvbox"/>
