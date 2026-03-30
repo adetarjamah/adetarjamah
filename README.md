@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <a href="https://github.com/adetarjamah/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" width="400em" src="https://streak-stats.demolab.com/api?username=adetarjamah&theme=gruvbox&show_icons=true"/>
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
