@@ -10,20 +10,55 @@
 
 <p align="center">
   <a href="https://github.com/adetarjamah/">
-    <img alt="Ade Tarjamah's Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Ade Tarjamah's Github" src="https://img.shields.io/badge/GitHub-02303A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.youtube.com/@adetarjamah">
     <img alt="Ade Tarjamah's Youtube Channel" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adetarjamah/">
-    <img alt="Ade Tarjamah's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img alt="Ade Tarjamah's LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=inbug-white&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/32225223/ade-tarjamah">
-    <img alt="Ade Tarjamah's Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    <img alt="Ade Tarjamah's Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+   <a href="https://adetarjamah.framer.website/">
+    <img alt="Ade Tarjamah's Portofolio" src="https://img.shields.io/badge/Website-02303A?style=for-the-badge&logo=framer&logoColor=white" />
   </a>
 </p>
 
 I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" alt="Indonesia" width="13"/>, i take great care in the experience with a strong foundation in Architecture, combining structural logic with design creativity to create intuitive and user-centric digital solutions. My background allows for a multidisciplinary approach that results in structured, scalable and aesthetic products. I believe that technology is not just about functionality, but also about emotion and experience. From building the foundation of an application to optimizing user interactions, I enjoy the challenge of creating solutions that not only work, but also impress. With a high curiosity and drive to continuously experiment, I am not afraid to think outside the box because sometimes, the best solutions come from the most unexpected perspectives. And I believe indentity of human are learners as my life motto.
+
+<details closed>
+  <summary><h2>🚀 My Projects Build</h2></summary>
+
+### 🛒 Point of Sales (POS)
+Full-featured POS system with real-time transactions, reporting dashboards, and SAP financial integration.
+
+### 🚚 Transport Management System (TMS)
+Fleet & delivery tracking with operational monitoring and reporting.
+
+### 👨‍💼 Human Resource Information System (HRIS)
+Employee management including attendance, payroll support, and approval workflows.
+
+### 🔗 SAP Integration
+Seamless mobile-to-SAP integration for real-time enterprise data synchronization.
+
+### 🧱 Tile & Paint Calculator
+Material estimation system with automated calculations for higher project accuracy.
+
+### 📦 Inventory Management System
+Stock tracking, warehouse monitoring, and reporting for efficient supply chain operations.
+
+### 🏢 Enterprise Resource Planning (ERP)
+Multi-department system covering finance, operations, and procurement workflows.
+
+### 🧾 Procurement System
+Purchasing and approval workflows to optimize cost control.
+
+### 🎯 Membership Apps (RKM, Triwarna, Lantai & Dinding)
+Loyalty programs, reward points, transactions, and promo management to boost engagement.
+
+</details>
 
 #### Things i code with
 <p>
