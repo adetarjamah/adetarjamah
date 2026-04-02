@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <img src="https://i.ibb.co.com/SDWZzJXX/banner.png" alt="Banner" width="100%"/>
+
 <p align="center">
   <a href="https://github.com/adetarjamah/">
     <img alt="Ade Tarjamah's Github" src="https://img.shields.io/badge/GitHub-02303A?style=for-the-badge&logo=github&logoColor=white" />
