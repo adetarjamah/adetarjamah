@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" width="280" alt="Ade Tarjamah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adetarjamah&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" width="220" alt="Ade Tarjamah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="180em" width="300" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ade Tarjamah's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=adetarjamah&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
-</div>
-
-<br/>
-
+<!-- <img src="https://i.ibb.co/7R9Rwpv/banner.png" alt="Banner" width="100%"/> -->
 <p align="center">
   <a href="https://github.com/adetarjamah/">
     <img alt="Ade Tarjamah's Github" src="https://img.shields.io/badge/GitHub-02303A?style=for-the-badge&logo=github&logoColor=white" />
@@ -27,6 +20,12 @@
 </p>
 
 I'm Ade Tarjamah, Mobile Dev Enthusiast from Bandung, Indonesia <img src="https://cdn-icons-png.flaticon.com/512/197/197559.png" alt="Indonesia" width="13"/>, i take great care in the experience with a strong foundation in Architecture, combining structural logic with design creativity to create intuitive and user-centric digital solutions. My background allows for a multidisciplinary approach that results in structured, scalable and aesthetic products. I believe that technology is not just about functionality, but also about emotion and experience. From building the foundation of an application to optimizing user interactions, I enjoy the challenge of creating solutions that not only work, but also impress. With a high curiosity and drive to continuously experiment, I am not afraid to think outside the box because sometimes, the best solutions come from the most unexpected perspectives. And I believe indentity of human are learners as my life motto.
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" width="280" alt="Ade Tarjamah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=adetarjamah&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" width="220" alt="Ade Tarjamah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=adetarjamah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="180em" width="300" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ade Tarjamah's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=adetarjamah&theme=monokai-metallian&hide_border=true&short_numbers=true"/></a>
+</div>
 
 <details closed>
   <summary><h2>🚀 My Projects Build</h2></summary>
@@ -58,6 +57,7 @@ Purchasing and approval workflows to optimize cost control.
 ### 🎯 Membership Apps (RKM, Triwarna, Lantai & Dinding)
 Loyalty programs, reward points, transactions, and promo management to boost engagement.
 
+<br>
 </details>
 
 #### Things i code with
