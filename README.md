@@ -114,6 +114,8 @@ Loyalty programs, reward points, transactions, and promo management to boost eng
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
 </p>
 
+![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
 **adetarjamah/adetarjamah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
