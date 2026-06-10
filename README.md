@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://i.ibb.co.com/SDWZzJXX/banner.png" alt="Banner" width="100%"/>
+<img src="https://i.ibb.co.com/C3KPp7X5/Cover-2.png" alt="Banner" width="1000"/>
 
 <p align="center">
   <a href="https://github.com/adetarjamah/">
