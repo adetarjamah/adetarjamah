@@ -114,6 +114,13 @@ Loyalty programs, reward points, transactions, and promo management to boost eng
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
 </p>
 
+#### Things AI tools with
+<p>
+  <img alt="Qwen" src="https://img.shields.io/badge/Qwen-02569B?logo=qwen&logoColor=white" />
+  <img alt="LM Studio" src="https://img.shields.io/badge/LM%20Studio-8034A9?logo=lmstudio&logoColor=white" />
+</p>
+
+
 ![snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!--
